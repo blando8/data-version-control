@@ -1,3 +1,3 @@
 outs:
-- md5: a4587a922e9c0cdb9164827fa023880b
+- md5: 110afd58ca0a789e2d0d10ef7078a1d0
   path: model.joblib
